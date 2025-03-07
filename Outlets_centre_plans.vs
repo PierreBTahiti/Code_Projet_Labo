@@ -1,11 +1,11 @@
 GOCAD VSet 1 
 HEADER { 
 *atoms*symbol: sphere 
-*atoms*size: 4 
+*atoms*size: 2 
 *atoms*color: #0000ff 
 use_feature_color: false 
 painted: on 
-name: Outlets 
+name: Outlets_test 
 } 
 GOCAD_ORIGINAL_COORDINATE_SYSTEM 
 NAME 'SKUA Local' 
